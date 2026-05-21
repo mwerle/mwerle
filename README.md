@@ -1,5 +1,11 @@
-## Hi there 👋
+## About
+Professional programmer who likes to contribute to open-source projects in his spare time.
 
+## How to donate
+If you feel that I have contributed significantly to your project, or that some of my work has provided significant value or enjoyment to you, feel free to support my caffeine addition :)
+
+- [Wise](https://wise.com/pay/me/michaelw269)
+- PayPal [EUR](https://paypal.me/michaelwerlede) [AUD](https://paypal.me/michaelwerleau) [GBP](https://paypal.me/michaelwerle) [Yen](https://paypal.me/michaelwerlejp)
 <!--
 **mwerle/mwerle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
